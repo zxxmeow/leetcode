@@ -1,6 +1,6 @@
 #332.Reverse String
 
-##Accept code
+##Accepted code
 
 **C：**
 
