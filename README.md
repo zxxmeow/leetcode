@@ -19,3 +19,5 @@ this is a test text!
 
 MarkdownPad 2 不能写表格么？奇怪0…0  
 （难道是我哪里写错了么0.0
+
+好久没写代码了，好生疏o(` · ~ · ′。)o
