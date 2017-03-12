@@ -12,12 +12,18 @@ this is a test text!
 (*￣▽￣)y
 
 | ABCD | EFGH | IJKL |
-| :---:| :---:| :---:|
-| a    | b    | c    |
-| d    | e    |  f   |
-| g    | h    |   i  |
+| :--: | :--: | :--: |
+|  a   |  b   |  c   |
+|  d   |  e   |  f   |
+|  g   |  h   |  i   |
 
 MarkdownPad 2 不能写表格么？奇怪0…0  
 （难道是我哪里写错了么0.0
 
 好久没写代码了，好生疏o(` · ~ · ′。)o
+
+
+
+在Mac上用了新的markdown编辑器--**typora**，感觉还挺好用的~~
+
+*test*
